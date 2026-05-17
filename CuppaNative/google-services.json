@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "787803699507",
+    "project_id": "test1app-673e2",
+    "storage_bucket": "test1app-673e2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787803699507:android:d9d7fef3dbe302ff0a6646",
+        "android_client_info": {
+          "package_name": "com.rpoosarla.cuppa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787803699507-89u70dtt685ke1vo30s11cjdgoivbpoo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rpoosarla.cuppa",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "787803699507-faiirddprsrce5qtptpp29eaoccg05co.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rpoosarla.cuppa",
+            "certificate_hash": "905bfa50a5714893bbd316a6ce355279829c45a5"
+          }
+        },
+        {
+          "client_id": "787803699507-sp7n29vvbr97b437f0kdt4eso2pq4ip4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCox0c-RGLGi37EsXYo2BNEnhs2W54AC0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787803699507-sp7n29vvbr97b437f0kdt4eso2pq4ip4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
